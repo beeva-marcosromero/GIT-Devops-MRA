@@ -1,0 +1,24 @@
+diff --git a/diff.txt b/diff.txt
+deleted file mode 100644
+index 2f9f776..0000000
+--- a/diff.txt
++++ /dev/null
+@@ -1,9 +0,0 @@
+-diff --git a/ejercicio2.txt b/ejercicio2.txt
+-new file mode 100644
+-index 0000000..9d376de
+---- /dev/null
+-+++ b/ejercicio2.txt
+-@@ -0,0 +1,3 @@
+-+Marcos Romero Alonso
+-+Ole ole, los centos de mi cole
+-+¡VIVA LINUX!
+diff --git a/ejercicio2.txt b/ejercicio2.txt
+new file mode 100644
+index 0000000..9d376de
+--- /dev/null
++++ b/ejercicio2.txt
+@@ -0,0 +1,3 @@
++Marcos Romero Alonso
++Ole ole, los centos de mi cole
++¡VIVA LINUX!
